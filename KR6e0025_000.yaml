@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6e0025/t/v1/juan/0
+seq: 0
+front:
+  text: 華嚴經骨目序此經新本大唐證聖元年于闐實叉難陀譯八十卷成天台宗教第九祖師荊溪尊者有願行觀門骨目一卷今分兩卷即略撮綱要用擬觀本斯文久流他國未行于中朝故人罕得而見之然諸佛密藏如來性海視之者莫識其指歸挹之者罔測其涯際倘留神此典實玄覽要門洞明諸佛果源開悟衆生理本無邊剎海豈隔毫端十世古今不逾當念法界大都於茲入矣則與夫看誦華嚴大教一部校量功德復何有異焉敬敘元由以冠經首庶知其所自云耳
+  hash: sha256:565b8e7cb70ae654612b0446b083a12b446ac0f20ae4863947007224f0a4b4f2
+  markers:
+  - {type: 序, offset: 0, content: 華嚴經骨目序, id: KR6e0025_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大方廣佛華嚴經願行觀門骨目
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T36/T36n1742.xml
+    old_id: T36n1742
+hash: sha256:fdef6c0b6ab5ca2db037b1d9267f52329d8d1b03b7b24e69647a7db6f3a2c77d
