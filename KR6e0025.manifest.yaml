@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0025/v1
 canonical_location: https://kanripo.org/bkk/KR6e0025/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大方廣佛華嚴經願行觀門骨目
   identifiers:
@@ -24,13 +24,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0025_000.yaml, hash: 'sha256:0223252ea693bb3fb0158084437299a3f81de777b2a01c568bc14112b41961e6'}
-  - {seq: 1, filename: KR6e0025_001.yaml, hash: 'sha256:cd37f44fb1e006db9a7a9c783ccb3493fad08feb98c20dc0b6088492d27d9de1'}
-  - {seq: 2, filename: KR6e0025_002.yaml, hash: 'sha256:5ac7359d5b381a563e5e3361488e7587e0a04f8645c8bf3e78ff00dc11fc76b1'}
+  - {seq: 0, filename: KR6e0025_000.yaml, hash: 'sha256:fdef6c0b6ab5ca2db037b1d9267f52329d8d1b03b7b24e69647a7db6f3a2c77d'}
+  - {seq: 1, filename: KR6e0025_001.yaml, hash: 'sha256:f34122e531c92b166896aeb44c8afcd5d9bf61b11be78412800026c7fffb4e84'}
+  - {seq: 2, filename: KR6e0025_002.yaml, hash: 'sha256:7a63d62a3d1389632fc3b132dd1f9460d43c5c809c7890f3f80ab989a245e25a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0025_000.markers.yaml, hash: 'sha256:33df2643f7d1ce2708fd7c921a784393dc8c9c9a189ec21c6c869897bd74b142'}
-  - {seq: 1, role: markers, filename: assets/KR6e0025_001.markers.yaml, hash: 'sha256:283e2877449b07d202453f6d3854e740b71c8da1d011df345422460da6e40e2d'}
-  - {seq: 2, role: markers, filename: assets/KR6e0025_002.markers.yaml, hash: 'sha256:53d0a8acde0446d26d4832937185758fbd5c9734c42197cccd1b1a68af5702e8'}
+  - {seq: 0, role: markers, filename: assets/KR6e0025_000.markers.yaml, hash: 'sha256:7ff6270fc701b910c77a652bcab64db9da225d1af7bf0b72a8dcdd476eb70708'}
+  - {seq: 1, role: markers, filename: assets/KR6e0025_001.markers.yaml, hash: 'sha256:64b8e96574867d8d79c134b94dc08a972a18aa1e83901663531738a47e3d3979'}
+  - {seq: 2, role: markers, filename: assets/KR6e0025_002.markers.yaml, hash: 'sha256:eeeb61c329e86df8d9efdaa9272ef70a46c23d28fe202a06173df39a4964c588'}
 table_of_contents:
 - ref:
     seq: 0
@@ -546,4 +546,7 @@ table_of_contents:
   label: 39 入法界品
   type: mulu
   level: 1
-hash: sha256:44bc0285e3b7481163d237937a00965d3feec19fecbe0eaa087a73ebc1760489
+hash: sha256:d8fc06e9415dc8eeea0faaf0ab1cc9d63f020de96527cfec349f100dc65c3738
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
