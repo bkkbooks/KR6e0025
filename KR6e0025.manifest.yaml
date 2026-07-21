@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0025_000.yaml, hash: 'sha256:fdef6c0b6ab5ca2db037b1d9267f52329d8d1b03b7b24e69647a7db6f3a2c77d'}
+  - {seq: 0, filename: KR6e0025_000.yaml, hash: 'sha256:cae8008c4ae583e5924a46ccc5472fd47a90a057938d7b7e0af7a12549ea789c'}
   - {seq: 1, filename: KR6e0025_001.yaml, hash: 'sha256:f34122e531c92b166896aeb44c8afcd5d9bf61b11be78412800026c7fffb4e84'}
   - {seq: 2, filename: KR6e0025_002.yaml, hash: 'sha256:7a63d62a3d1389632fc3b132dd1f9460d43c5c809c7890f3f80ab989a245e25a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0025_000.markers.yaml, hash: 'sha256:7ff6270fc701b910c77a652bcab64db9da225d1af7bf0b72a8dcdd476eb70708'}
+  - {seq: 0, role: markers, filename: assets/KR6e0025_000.markers.yaml, hash: 'sha256:8995d13aba64c5b1d4dd7ec905ad7bca7cbf1352c139f2a3910c2dcbba72a2df'}
   - {seq: 1, role: markers, filename: assets/KR6e0025_001.markers.yaml, hash: 'sha256:64b8e96574867d8d79c134b94dc08a972a18aa1e83901663531738a47e3d3979'}
   - {seq: 2, role: markers, filename: assets/KR6e0025_002.markers.yaml, hash: 'sha256:eeeb61c329e86df8d9efdaa9272ef70a46c23d28fe202a06173df39a4964c588'}
 table_of_contents:
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0025_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 華嚴經骨目序
@@ -546,7 +546,7 @@ table_of_contents:
   label: 39 入法界品
   type: mulu
   level: 1
-hash: sha256:d8fc06e9415dc8eeea0faaf0ab1cc9d63f020de96527cfec349f100dc65c3738
+hash: sha256:53e0f559d0216219b0e2f242e9892a8e1c6b240de94db7b8ffe1439cb97d58ed
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
